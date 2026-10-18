@@ -1,0 +1,10 @@
+[package]
+name = "handl-lib-char"
+version = "0.1.0"
+edition = "2024"
+description = "char: the character-library contract (axioms) — Handl stdlib port (ADR-0128 split)."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/handl-lang/lib-char"
+
+# Const-only: pure handl contract.
+[dependencies]
