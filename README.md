@@ -19,3 +19,7 @@ Published site (Diátaxis): <https://handl-lang.github.io/docs/lib-char/>
 - [Explanation](https://handl-lang.github.io/docs/lib-char/explanation/) — design and rationale
 
 Decision records live on the `project` branch under `project/adrs/`.
+
+## License
+
+MIT.
