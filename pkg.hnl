@@ -1,1 +1,8 @@
-{ modules: ["char"] }
+{
+  modules: ["char"],
+  name: "char",
+  description: "Character-library contract — the char.* axioms every backend must satisfy.",
+  license: "MIT",
+  keywords: ["char", "unicode", "contract", "stdlib"],
+  homepage: "https://github.com/handl-lang/lib-char",
+}
