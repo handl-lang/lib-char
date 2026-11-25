@@ -1,3 +1,4 @@
+-- test_coverage "none": char.* contract axioms only — semantics live in the backend impls (char-native & friends).
 {
   modules: ["char"],
   name: "char",
@@ -5,4 +6,5 @@
   license: "MIT",
   keywords: ["char", "unicode", "contract", "stdlib"],
   homepage: "https://github.com/handl-lang/lib-char",
+  test_coverage: "none",
 }
