@@ -13,7 +13,7 @@ module. All algorithms (`str-handl`) are written against this contract.
 src/index.hnl            the contract (axiom declarations)
 pkg.hnl                  package manifest
 scripts/hnl-gate.sh      the gate
-ci.sh                    bupha entry
+workflows/gate.yaml                    bupha entry (handl-gates)
 ```
 
 ## Gate
